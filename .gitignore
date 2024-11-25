@@ -103,6 +103,8 @@ dist
 .temp
 .cache
 
+#ya delayu chto hochu
+
 # Docusaurus cache and generated files
 .docusaurus
 
